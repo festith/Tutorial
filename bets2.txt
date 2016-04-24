@@ -1,0 +1,21 @@
+England || Liverpool vs. Newcastle  W1 0,1133333
+England || Leicester City vs. Swansea City  X 0,1133333
+Spain || Las Palmas vs. Espanyol  X 0,1133333
+Spain || Villarreal vs. Real Sociedad  X 0,1133333
+Italy || Roma vs. Napoli  W1 0,1133333
+Italy || Roma vs. Napoli  W2 0,1133333
+France2 || Nimes vs. Lens  W1 0,1133333
+France2 || Nimes vs. Lens  X 0,1133333
+France2 || Chamois vs. Bourg Peronnas  X 0,1133333
+France2 || Chamois vs. Bourg Peronnas  W2 0,1133333
+France1 || Toulouse vs. Ol. Lyon  X 0,1133333
+France1 || St. Etienne vs. Lorient  W1 0,1133333
+France1 || Rennes vs. Monaco  X 0,1133333
+Germany || Hamburger SV vs. Werder Bremen  W1 0,1133333
+Germany || Cologne vs. Darmstadt  W2 0,1133333
+Germany || VfB Stuttgart vs. Borussia Dortmund  W2 0,1133333
+Portugal || Nacional vs. Moreirense  W1 0,1133333
+Turkey || Galatasaray vs. Kasimpasa Istanbul  W2 0,1133333
+Austria || Ried vs. Admira  W2 0,1133333
+Austria || Grodig vs. Wolfsberg  W1 0,1133333
+Austria || Rapid Wien vs. Sturm Graz  W2 0,1133333
